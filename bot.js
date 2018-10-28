@@ -7,7 +7,7 @@ client.on('ready', function(){
  game: { 
     type: 1,
      url: 'https://www.twitch.tv/skwadraa',
-    name: '- ستفقدني كثيراً اعدك بذلك .',
+    name: '-لن أهُزم لأنني أؤمن بنفسي دائماً .',
     application_id: '489557365301968906',
      assets: {
          large_image:   `505871779709976617`,
