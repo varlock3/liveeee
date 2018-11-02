@@ -8,9 +8,9 @@ client.on('ready', function(){
     type: 1,
      url: 'https://www.twitch.tv/skwadraa',
     name: 'كثرة الحاقدين تثير اعجابي .',
-    application_id: '508013373695459329',
+    application_id: '508000864221397020',
      assets: {
-         large_image:   `505871779709976617`,
+         large_image:   `508013373695459329`,
   
     }
   }
